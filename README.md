@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremiah Ungsod</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-- 🌱 I’m currently learning **React, Node, and Express JS**
+- 🌱 I’m currently learning **React, Node, and Express JS, Laravel**
 
 - 📫 How to reach me **j.ungsod019@gmail.com**
 
