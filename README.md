@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/jeremiah-ungsod](https://www.linkedin.com/in/roeza-joyce-dela-pena-21198714b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremiah-ungsod" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/roeza-joyce-dela-pena-21198714b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremiah-ungsod" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/jeremiahlarry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jeremiahlarry" height="30" width="40" /></a> -->
 
 <h3 align="left">Languages and Tools:</h3>
