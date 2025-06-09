@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeremiah Larry</h1>
+<h1 align="center">Hi 👋, I'm Roeza Dela Pena</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 - 🌱 I’m currently learning **React, Node, and Express JS, Laravel**
